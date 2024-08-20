@@ -1,5 +1,4 @@
-```markdown
-# GuideRide - Tour Guide Booking Platform
+GuideRide - Tour Guide Booking Platform
 
 ## Overview
 
@@ -29,5 +28,3 @@
 2. **Search:** Use the search bar to find specific tours or guides.
 3. **Booking:** Select a guide and vehicle, then proceed to booking.
 4. **Admin Dashboard:** Accessible for admin users to manage the platform.
-
-```
