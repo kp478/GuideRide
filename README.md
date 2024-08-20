@@ -1,4 +1,4 @@
-GuideRide - Tour Guide Booking Platform
+# GuideRide - Tour Guide Booking Platform
 
 ## Overview
 
